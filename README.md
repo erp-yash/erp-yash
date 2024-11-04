@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ODOO Certified ERP & Python Developer
 -------------------------------------
 
-Hello! I’m a highly skilled Odoo developer with over 4 years of experience in creating tailored Odoo solutions for businesses of all sizes. My expertise includes: - Custom Module Development: Crafting unique modules to meet business requirements, enhancing functionality and user experience. - Integration: Seamlessly integrating Odoo with third-party systems to streamline operations and improve data flow. - Data Migration: Extensive experience in migrating data efficiently and accurately, ensuring a smooth transition with minimal disruption. - Consultation: Offering strategic advice on Odoo implementation and best practices to maximize your investment. I’m passionate about helping businesses leverage the full potential of Odoo to improve efficiency and drive growth. Let’s connect and discuss how I can help you achieve your goals!
+Hello! I’m a highly skilled Odoo developer with over 4 years of experience in creating tailored Odoo solutions for businesses of all sizes. My expertise includes: 
+- Custom Module Development: Crafting unique modules to meet business requirements, enhancing functionality and user experience.
+- Integration: Seamlessly integrating Odoo with third-party systems to streamline operations and improve data flow.
+- Data Migration: Extensive experience in migrating data efficiently and accurately, ensuring a smooth transition with minimal disruption.
+- Consultation: Offering strategic advice on Odoo implementation and best practices to maximize your investment.
+
+I’m passionate about helping businesses leverage the full potential of Odoo to improve efficiency and drive growth. Let’s connect and discuss how I can help you achieve your goals!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [erp.yash@gmail.com](mailto:erp.yash@gmail.com)
